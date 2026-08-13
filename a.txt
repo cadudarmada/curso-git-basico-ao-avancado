@@ -2,3 +2,4 @@ atualização de arquivo
 bom dia 
 boa tarde 
 boa noite
+agora coloquei mais funcionalidades
